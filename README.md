@@ -2,20 +2,30 @@
 
 **Dynamic Programming Patterns** applied in `Python/Django` - Actively supported by [AppSeed](https://appseed.us/). 
 
-> LIVE Demo: https://dynamic-django.onrender.com/
+> LIVE DEMOs:
+
+- Dynamic DataTables: https://dynamic-django.onrender.com/dynamic-dt/sales/
+- Dynamic Charts: https://dynamic-django.onrender.com/dynamic-charts/sales/
+  - Sample `PIE`: [DEMO](https://dynamic-django.onrender.com/dynamic-charts/sales/?chart_id=2), [EMBED](https://dynamic-django.onrender.com/dynamic-charts/embed/2/)
+  - Sample `POLAR`: [DEMO](https://dynamic-django.onrender.com/dynamic-charts/sales/?chart_id=10), [EMBED](https://dynamic-django.onrender.com/dynamic-charts/embed/10/)
+  - Sample `DONUT`: [DEMO](https://dynamic-django.onrender.com/dynamic-charts/sales/?chart_id=8), [EMBED](https://dynamic-django.onrender.com/dynamic-charts/embed/8/)
+  - Sample PIE: [DEMO](https://dynamic-django.onrender.com/dynamic-charts/sales/?chart_id=2), [EMBED](https://dynamic-django.onrender.com/dynamic-charts/embed/2/)
+  - Sample PIE: [DEMO](https://dynamic-django.onrender.com/dynamic-charts/sales/?chart_id=2), [EMBED](https://dynamic-django.onrender.com/dynamic-charts/embed/2/)
 
 ## Features 
 
 - [OK] Dynamic API via DRF
-- [WIP] Dynamic DT
-- [WIP] Models Editor
-- [WIP] Configuration Updater       
+- [OK] Dynamic DT
+- [OK] Models Editor - via `CLI`
+- [OK] Configuration Updater - via `CLI`      
 
 ## Quick Start
 
+> NOTE: Requires a purchase, secured by GUMROAD.
+ 
 ```
 # Clone Repo
-$ git clone https://github.com/app-generator/dynamic-django.git
+$ git clone https://github.com/app-generator/priv-dynamic-django.git
 ```
 
 > Create VENV
