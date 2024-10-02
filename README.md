@@ -6,11 +6,9 @@
 
 - Dynamic DataTables: https://dynamic-django.onrender.com/dynamic-dt/sales/
 - Dynamic Charts: https://dynamic-django.onrender.com/dynamic-charts/sales/
-  - Sample `PIE`: [DEMO](https://dynamic-django.onrender.com/dynamic-charts/sales/?chart_id=2), [EMBED](https://dynamic-django.onrender.com/dynamic-charts/embed/2/)
-  - Sample `POLAR`: [DEMO](https://dynamic-django.onrender.com/dynamic-charts/sales/?chart_id=10), [EMBED](https://dynamic-django.onrender.com/dynamic-charts/embed/10/)
-  - Sample `DONUT`: [DEMO](https://dynamic-django.onrender.com/dynamic-charts/sales/?chart_id=8), [EMBED](https://dynamic-django.onrender.com/dynamic-charts/embed/8/)
-  - Sample PIE: [DEMO](https://dynamic-django.onrender.com/dynamic-charts/sales/?chart_id=2), [EMBED](https://dynamic-django.onrender.com/dynamic-charts/embed/2/)
-  - Sample PIE: [DEMO](https://dynamic-django.onrender.com/dynamic-charts/sales/?chart_id=2), [EMBED](https://dynamic-django.onrender.com/dynamic-charts/embed/2/)
+  - `PIE`: [DEMO](https://dynamic-django.onrender.com/dynamic-charts/sales/?chart_id=2), [EMBED](https://dynamic-django.onrender.com/dynamic-charts/embed/2/)
+  - `POLAR`: [DEMO](https://dynamic-django.onrender.com/dynamic-charts/sales/?chart_id=10), [EMBED](https://dynamic-django.onrender.com/dynamic-charts/embed/10/)
+  - `DONUT`: [DEMO](https://dynamic-django.onrender.com/dynamic-charts/sales/?chart_id=8), [EMBED](https://dynamic-django.onrender.com/dynamic-charts/embed/8/)
 
 ## Features 
 
