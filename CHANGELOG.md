@@ -1,0 +1,27 @@
+# Change Log
+
+## [0.0.3] 2024-09-23
+### Changes
+
+- Added `model_add_field`
+
+## [0.0.2] 2024-09-22
+### Changes
+
+- Added helpers
+- Code refactoring
+- Integrate AST Processor
+- Generate code via AST
+- Added Helpers:
+  - URLs
+  - Dependencies
+  - ENV
+  - Settings 
+  - Apps
+  - Interface with Django Core 
+
+## [0.0.1] 2024-09-19
+### Changes
+
+- Initial stuff added
+
