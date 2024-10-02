@@ -2,7 +2,7 @@
 
 **Dynamic Programming Patterns** applied in `Python/Django` - Actively supported by [AppSeed](https://appseed.us/). 
 
-For support create a new issue on the REPO or send an email to `support@appseed.us`.  
+> LIVE Demo: dynamic-django.onrender.com  
 
 ## Features 
 
