@@ -1,8 +1,8 @@
-# [Dynamic Django](https://github.com/app-generator/dynamic-django)
+# [Dynamic Django](https://dynamic-django.onrender.com/)
 
-**Dynamic Programming Patterns** applied in `Python/Django` - Actively supported by [AppSeed](https://appseed.us/). 
+**Dynamic Programming Patterns** applied in `Python/Django` - actively supported by `AppSeed`. 
 
-> LIVE DEMOs:
+> LIVE DEMOs & [official documentation](https://app-generator.dev/docs/developer-tools/dynamic-django/index.html)
 
 - Dynamic DataTables: https://dynamic-django.onrender.com/dynamic-dt/sales/
 - Dynamic Charts: https://dynamic-django.onrender.com/dynamic-charts/sales/
@@ -12,14 +12,14 @@
 
 ## Features 
 
-- [OK] Dynamic API via DRF
 - [OK] Dynamic DT
-- [OK] Models Editor - via `CLI`
-- [OK] Configuration Updater - via `CLI`      
+- [OK] Dynamic Charts
+- [OK] Dynamic API via DRF
+- [OK] Powerful `CLI` tools      
 
 ## Quick Start
 
-> NOTE: Requires a purchase, secured by GUMROAD.
+> NOTE: Requires a [purchase](https://appseed.gumroad.com/l/devtool-dynamic-django), secured by GUMROAD.
  
 ```
 # Clone Repo
@@ -71,4 +71,4 @@ $ python manage.py dbrestore -i 20240930-001.dump  # restore
 ```
 
 ---
-[Dynamic Django](https://github.com/app-generator/dynamic-django) - Open-source project crafted by AppSeed 
+[Dynamic Django](https://dynamic-django.onrender.com/) - actively supported by `AppSeed`.
