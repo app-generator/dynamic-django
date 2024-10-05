@@ -17,3 +17,9 @@
 ---
 
 ![dynamic-django-api-new-model](https://github.com/user-attachments/assets/08855141-059a-491b-aac5-ca5769730ed3)
+
+<br />
+
+---
+
+![dynamic-django-home](https://github.com/user-attachments/assets/57732fc4-5f16-4c93-885e-2890410df94a)
