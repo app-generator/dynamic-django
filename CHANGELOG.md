@@ -1,5 +1,16 @@
 # Change Log
 
+## [1.0.2] 2024-10-06
+### Changes
+
+- Dynamic Tables - Fix Search (tables with FKs)
+
+## [1.0.1] 2024-10-05
+### Changes
+
+- Added robots.txt & sitemap.xml 
+- Minor code polish 
+
 ## [1.0.0] 2024-10-03
 ### Changes
 
