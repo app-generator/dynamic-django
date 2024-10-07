@@ -3,7 +3,7 @@
 ## [1.0.3] 2024-10-07
 ### Changes
 
-- Added [CSV Loaded & Processor](https://app-generator.dev/docs/developer-tools/dynamic-django/csv-loader.html)
+- Added [CSV Loader & Processor](https://app-generator.dev/docs/developer-tools/dynamic-django/csv-loader.html)
 
 ## [1.0.2] 2024-10-06
 ### Changes
