@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.4] 2024-10-09
+### Changes
+
+- Dynamic Charts - Fixes 
+- Update HOMEpage with docs links
+
 ## [1.0.3] 2024-10-07
 ### Changes
 
