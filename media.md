@@ -1,3 +1,16 @@
+
+![dynamic-django-api-titanic-xs](https://github.com/user-attachments/assets/5e7562b9-0d50-4cdc-87fc-5cbed2628ed1)
+
+<br />
+
+---
+
+![dynamic-django-api-titanic-large](https://github.com/user-attachments/assets/752ca32a-9389-4ac8-938e-0560445faea4)
+
+<br />
+
+---
+
 ![dynamic-django-dt-titanic-view-xs](https://github.com/user-attachments/assets/dec5fbd4-ba19-45bd-93ee-fba708632e65)
 
 <br />
