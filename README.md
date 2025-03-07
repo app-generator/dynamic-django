@@ -73,4 +73,4 @@ $ python manage.py dbrestore -i 20240930-001.dump  # restore
 ```
 
 ---
-[Dynamic Django](https://dynamic-django.onrender.com/) - actively supported by `AppSeed`.
+[Dynamic Django](https://dynamic-django.onrender.com/) - actively supported by [App Generator](https://app-generator.dev/) Service.
