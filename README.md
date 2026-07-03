@@ -1,76 +1,36 @@
-# [Dynamic Django](https://dynamic-django.onrender.com/)
+# [Dynamic Django](https://app-generator.dev/product/dynamic-patterns/django/)
 
-**Dynamic Programming Patterns** applied in `Python/Django` - actively supported by `AppSeed`. 
+A highly adaptive Django boilerplate engineered to automate data consolidation, processing, and pipeline generation. By abstracting repetitive tasks through runtime configurations and a custom CLI, this engine functions both as a fast production layer for data analysis and as a highly educational blueprint for understanding dynamic software patterns.
 
-> LIVE DEMOs & [official documentation](https://app-generator.dev/docs/developer-tools/dynamic-django/index.html)
+> Provided by [App-Generator](https://app-generator.dev/) - **Helping entrepreneurs build products with continuous human support**
 
-- Dynamic DataTables: https://dynamic-django.onrender.com/dynamic-dt/sales/
-- Dynamic Charts: https://dynamic-django.onrender.com/dynamic-charts/sales/
-  - `PIE`: [DEMO](https://dynamic-django.onrender.com/dynamic-charts/sales/?chart_id=2), [EMBED](https://dynamic-django.onrender.com/dynamic-charts/embed/2/)
-  - `POLAR`: [DEMO](https://dynamic-django.onrender.com/dynamic-charts/sales/?chart_id=10), [EMBED](https://dynamic-django.onrender.com/dynamic-charts/embed/10/)
-  - `DONUT`: [DEMO](https://dynamic-django.onrender.com/dynamic-charts/sales/?chart_id=8), [EMBED](https://dynamic-django.onrender.com/dynamic-charts/embed/8/)
+<br />
 
-![Dynamic Django - Dynamic Programming Patterns applied in Python/Django.](https://github.com/user-attachments/assets/2f9f6cef-23cb-4328-b12f-dcc448feaa96)
+- 👉 [Dynamic Django](https://app-generator.dev/product/dynamic-patterns/django/) - `Product page`
+- 👉 [Dynamic Django](https://dynamic-django.app-generator.dev/) - `LIVE Demo`
 
-## Features 
+<br />
 
-- [OK] Dynamic DT
-- [OK] Dynamic Charts
-- [OK] Dynamic API via DRF
-- [OK] Powerful `CLI` tools      
+## LICENSE Update
 
-## Quick Start
+> **Product is available for subscribers ONLY** - See [Pricing](https://app-generator.dev/terms/).
 
-> NOTE: Requires a [purchase](https://appseed.gumroad.com/l/devtool-dynamic-django), secured by GUMROAD.
- 
-```
-# Clone Repo
-$ git clone https://github.com/app-generator/priv-dynamic-django.git
-```
+<br />
 
-> Create VENV
+<img width="800" height="500" alt="Dynamic Django - provided by App-Generator - Helping entrepreneurs build products with continuous human support" src="https://github.com/user-attachments/assets/2f9f6cef-23cb-4328-b12f-dcc448feaa96" />
 
-```bash
-$ virtualenv env
-$ source env/bin/activate
-$ pip install -r requirements.txt
-```
+<br />
 
-> Set Up Database
+## Technical Components & Utility Advantages
 
-```bash
-$ python manage.py makemigrations
-$ python manage.py migrate
-```
+- **Single-Line Configuration DataTables**: Server-side tables adapt dynamically based on your data models. A single line of declaration automatically maps, displays, and structures data management interfaces without manual view writing.
+- **Automated DRF API Provisioning**: Turns any standard Django model into a secure, fully documented REST API endpoint instantly via Django REST Framework (DRF), eliminating manual serializer and viewset overhead.
+- **Zero-Code Visual Analytics**: Extracts and renders major chart types directly from data layers using built-in dynamic bindings, bypassing the need to write custom frontend data-parsing logic.
+- **Automated CSV-to-Model Pipeline**: Includes a specialized ingestion utility that translates raw CSV structures into schema-compliant Django models and handles data-loading operations automatically.
+- **Advanced Architecture CLI**: A powerful terminal interface designed to control the core Django ecosystem. It automates database scaffolding (model generation and migrations), configuration tuning, and basic Git repository interactions directly from the command line.
+- **Educational & Production Value**: The codebase serves as a real-world implementation of advanced meta-programming and dynamic reflection in Python, making it highly valuable for both enterprise data analysis and academic analysis of dynamic architectures.
 
-> Start the Project
-
-```bash
-$ python manage.py createsuperuser # create the admin
-$ python manage.py runserver       # start the project
-```
-
-## Update model 
-
-```bash
-$ python
->>> from cli import *
->>> add_model('home', 'Stats')
->>> # Syntax: model_add_field('APP_NAME_HERE', 'MODEL_NAME_HERE', 'FIELD_NAME',  'FIELD_TYPE') 
->>> add_model_field('home', 'Stats', 'aInt',  'int') 
->>> add_model_field('home', 'Stats', 'aChar', 'str')
->>> add_model_field('home', 'Stats', 'aText', 'text')
-```
-
-The file is automatically reformated using `black` and DB migrated.
-
-## DB Backup / RESET / Restore
-
-```bash
-$ python manage.py dbbackup  -o 20240930-001.dump  # backup 
-$ python manage.py reset_db                        # RESET_DB [ Danger, all tables wipped ]
-$ python manage.py dbrestore -i 20240930-001.dump  # restore 
-```
+<br />
 
 ---
-[Dynamic Django](https://dynamic-django.onrender.com/) - actively supported by [App Generator](https://app-generator.dev/) Service.
+Provided by [App-Generator](https://app-generator.dev/) - **Helping entrepreneurs build products with continuous human support**
